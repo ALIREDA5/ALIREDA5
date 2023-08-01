@@ -3,7 +3,7 @@
 - 🔭 AS an Electrical Engineer, I'm constantly learning and exploring new technologies 
      to improve my skills
 - 🌱 I’m currently learning Embedded Software Engineering
-- 💬 Ask me about my experiance with C and Interfacing with AVR 
+- 💬 Ask me about my experiance with C and Microcontroller Interfacing  
 - 📫 How to reach me: **alireda159753@gmail.com**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
