@@ -1,10 +1,13 @@
-                          
-                                 Welcome to Ali Reda's Profile! 👋
+<h1 align="center">Hi 👋, I'm Ali Reda</h1>
 
 - 🔭 AS an Electrical Engineer, I'm constantly learning and exploring new technologies 
      to improve my skills
 - 🌱 I’m currently learning Embedded Software Engineering
 - 💬 Ask me about my experiance with C and Interfacing with AVR 
-- 📫 How to reach me: https://www.linkedin.com/in/ali-reda/
-- ⚡ Fun fact: I'm a tea emthusiast and my perfect day would start and end with a cup of tea
-
+- 📫 How to reach me: **alireda159753@gmail.com**
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ali-reda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-reda/" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
