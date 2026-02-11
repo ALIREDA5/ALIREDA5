@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Reda</h1>
- <h2 align="center"><img height="50" alt="Business Intellgence Analyst" src="https://github.com/ALIREDA5/ALIREDA5/blob/main/image.svg" /> </h2>
+ <h2 align="center"><img height="50" alt="Business Intelligence (BI) Analyst" src="https://github.com/ALIREDA5/ALIREDA5/blob/main/image.svg" /> </h2>
   <br />
 
 - 🔭 AS an Electrical Engineer, I'm constantly learning and exploring new technologies 
      to improve my skills
-- 🌱 I’m currently learning Embedded Software Engineering
-- 💬 Ask me about my experiance with C and Microcontroller Interfacing  
+- 🌱 I’m currently learning Data Analysis
+- 💬 Ask me about my experiance with Power BI, Databases and Data Warehousing  
 - 📫 How to reach me: **alireda.elec@gmail.com**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
