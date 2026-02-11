@@ -5,7 +5,7 @@
 - 🔭 AS an Electrical Engineer, I'm constantly learning and exploring new technologies 
      to improve my skills
 - 🌱 I’m currently learning Data Analysis
-- 💬 Ask me about my experiance with Power BI, Databases and Data Warehousing  
+- 💬 Ask me about my experiance with Power BI, Database Design and Data Warehousing  
 - 📫 How to reach me: **alireda.elec@gmail.com**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
