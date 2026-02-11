@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ali Reda</h1>
- <h2 align="center"><img height="50" alt="Business Intelligence (BI) Analyst" src="https://github.com/ALIREDA5/ALIREDA5/blob/main/image.svg" /> </h2>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<h1>Hi 👋, I'm Ali Reda</h1>
+ <h2><img height="50" alt="Business Intelligence (BI) Analyst" src="https://github.com/ALIREDA5/ALIREDA5/blob/main/image.svg" /> </h2>
   <br />
 
 - 🔭 AS an Electrical Engineer, I'm constantly learning and exploring new technologies 
