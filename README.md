@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Reda</h1>
- <h2 align="center"><img height="50" alt="    I love Embedded Systems" src="https://github.com/ALIREDA5/ALIREDA5/blob/main/image.svg" /> </h2>
+ <h2 align="center"><img height="50" alt="Business Intellgence Analyst" src="https://github.com/ALIREDA5/ALIREDA5/blob/main/image.svg" /> </h2>
   <br />
 
 - 🔭 AS an Electrical Engineer, I'm constantly learning and exploring new technologies 
