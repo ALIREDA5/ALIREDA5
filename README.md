@@ -6,7 +6,7 @@
      to improve my skills
 - 🌱 I’m currently learning Embedded Software Engineering
 - 💬 Ask me about my experiance with C and Microcontroller Interfacing  
-- 📫 How to reach me: **alireda159753@gmail.com**
+- 📫 How to reach me: **alireda.elec@gmail.com**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-reda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-reda/" height="30" width="40" /></a>
